@@ -12,7 +12,7 @@ Abra caminhos para um futuro promissor com o Bootcamp Potência Tech iFood, a po
 
 ## :rocket: Rodando o projeto
 
-Para rodar o repositório é necessário clonar o mesmo, e com a extensão "Live Server" instalada em seu Visual Studio Code, vocë poderá visualizar o projeto.
+Para rodar o repositório é necessário clonar o mesmo, e com a extensão "Live Server" instalada em seu Visual Studio Code, você poderá visualizar o projeto.
 
 ## :handshake: Colaboradores
 
