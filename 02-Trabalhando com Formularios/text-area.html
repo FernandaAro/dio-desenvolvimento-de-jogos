@@ -7,5 +7,26 @@
     <title>Text Area</title>
   </head>
 
-  <body></body>
+  <body>
+    <form onsubmit="" method="get">
+      <label>Nome: </label><input type="text" name="name" />
+      <br />
+      <label>Cargo: </label>
+      <select name="role">
+        <option selected value="">Selecione o cargo</option>
+        <option value="gerente">Gerente</option>
+        <option value="diretor">Diretor</option>
+        <option value="presidente">Presidente</option>
+      </select>
+      <br />
+      <label>Assunto: </label><input type="text" name="subject" />
+      <br />
+      <label>Mensagem: </label>
+      <textarea rows="10" cols="50" name="menssage"></textarea>
+      <br />
+      <br />
+      <button type="submit">Enviar</button>
+      <br />
+    </form>
+  </body>
 </html>
